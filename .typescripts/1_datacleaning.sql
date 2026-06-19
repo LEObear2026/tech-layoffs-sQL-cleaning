@@ -1,6 +1,6 @@
 
 ====================================================================
-SQL Data Cleaning Project: Tech Layoffs Dataset
+SQL Data Cleaning Project: Tech Layoffs Dataset		--https://www.kaggle.com/datasets/swaptr/layoffs-2022
 Database Engine: POSTGRESQL
 Purpose: Standardizing address fields, parsing delimited strings, 
          removing duplicate entries, and altering table schemas.
